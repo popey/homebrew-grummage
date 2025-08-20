@@ -2,7 +2,7 @@ class Grummage < Formula
   desc "Interactive terminal frontend to Grype for viewing vulnerability data"
   homepage "https://github.com/popey/grummage"
   url "https://github.com/popey/grummage/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "" # Fill in when we do a release.
+  sha256 "404330dfd9f8450cc7a5b1bb37983e53854d53d09abe5cedc8691e17daa574b5" # Fill in when we do a release.
   license "MIT"
 
   depends_on "python@3.11"
